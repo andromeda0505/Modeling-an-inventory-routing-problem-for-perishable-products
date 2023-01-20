@@ -1,7 +1,7 @@
 Python implementation of variants of Vehicle routing problem. 
 
 
-> Abstract
+> Abstract:/
 The transition to sustainable food supply chain management has brought new key logistical aims
  such as reducing food waste and environmental impacts of operations in the supply chain besides
  the traditional cost minimization objective. Traditional assumptions of constant distribution costs 
